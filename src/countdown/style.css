@@ -1,0 +1,27 @@
+.card-blue {
+  background-color: hsl(236, 21%, 26%);
+}
+
+.text-red {
+  color: hsl(345, 95%, 68%);
+}
+
+.bg-stars {
+  background-image: url("bg-stars.svg");
+  background-size: cover;
+  border: 1px solid red;
+}
+
+.dark-saturated-blue {
+  background-color: hsl(235, 16%, 14%);
+}
+
+.card-shadow {
+  box-shadow: 0 5px 3px 3px hsl(234, 17%, 12%);
+}
+
+.footer-bg {
+  background-image: url("pattern-hills.svg");
+  background-size: cover;
+  background-position: center;
+}
